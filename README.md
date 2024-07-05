@@ -1,6 +1,8 @@
 # Neural NetworksUnleashed
 
-This repository contains a collection of self-projects focused on various aspects of neural networks. Each folder contains a specific project with detailed explanations, code, and results. Below is an overview of each project.
+A self project repository focusing on neural networks and their implementations.
+
+This repository contains a collection Neural Network models focused on various aspects of data categorization and prediction. Each folder contains a specific project with detailed explanations, code, and results. Below is an overview of each project.
 
 
 ## Table of Contents
