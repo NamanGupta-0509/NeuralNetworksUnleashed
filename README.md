@@ -9,7 +9,6 @@ This repository contains a collection Neural Network models focused on various a
 - [ANN from Scratch](#ann-from-scratch)
 - [GANs in Python](#gans-in-python)
 - [RNN Name Generation](#rnn-name-generation)
-- [LSTM Prediction](#lstm-prediction)
 - [NGram Model for Hangman](#ngram-model-for-hangman)
 
 ## ANN from Scratch
@@ -22,11 +21,6 @@ This project explores Generative Adversarial Networks (GANs) and its application
 ## RNN Name Generation
 
 In this, I have trained a Recurrent Neural Network (RNN) to generate names based on a provided dataset of dinosaur names. The RNN learns the patterns and structures of the given names and generates new and similar names. For example, we can provide specific prefixes to generate names too.
-
-
-## LSTM Prediction
-
-This involves predicting future stock values using Long Short-Term Memory (LSTM) networks. LSTMs are a type of Recurrent Neural Network (RNN) that are particularly effective at capturing temporal dependencies in time series data. By leveraging LSTMs, I'm aiming to forecast stock prices based on historical data.
 
 ## NGram Model for Hangman
 
