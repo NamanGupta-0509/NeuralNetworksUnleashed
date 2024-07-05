@@ -1,5 +1,5 @@
 
-Neural Network from Scratch
+# Artificial Neural Network from Scratch
 
 
 ## The Problem
